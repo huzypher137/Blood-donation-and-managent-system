@@ -1,0 +1,11 @@
+Medical website change
+
+Backend ------- ****
+
+1.Form
+2.Database
+3.Content management system
+4.certificate after blood donation
+5.Payment gateway(Google) --- donations to the camp
+6.Make appointment / Donate now -----> Different table 
+7.Admin Dashboard (Stats and All )
